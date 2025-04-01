@@ -1,6 +1,6 @@
 ## Hi, I'm Jonny ✌
 
-- I'm currently working at [Sage,](https://sage-future.org) where I build tools to make sense of the future
+- I'm currently building [All In Labs](https://allinlabs.io/) as a place for me to explore new possibilities that arise from advancements in machine intelligence
 - I use he/him pronouns
 - I like post-punk 🎸, Mexican food 🌮, and climbing 🧗‍♂️
 - I don't like country music 🪕 or over-used references to The Shining 🔪
